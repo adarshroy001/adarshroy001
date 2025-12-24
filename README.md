@@ -1,4 +1,5 @@
 💫 Hi 👋, I'm Adarsh
+
 🚀 Full Stack Developer | MERN Stack  
 🎓 B.Tech Student | 3rd Year  
 💻 Building real-world products & scalable web apps  
@@ -9,7 +10,7 @@ Open to collaborations, projects, and professional opportunities.
 ## 👨‍💻 About Me
 
 - 💡 Full Stack Developer with hands-on experience in **MERN Stack**
-- 🏗️ Currently working as a **Campus Cart**
+- 🏗️ Currently working on **Campus Cart**
 - 🧠 Strong interest in **System Design, DSA & Backend Engineering**
 - 🌱 Currently improving **Next.js, TypeScript & Advanced Backend Concepts**
 
