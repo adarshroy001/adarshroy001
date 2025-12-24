@@ -14,7 +14,7 @@ Open to collaborations, projects, and professional opportunities.
 - 🧠 Strong interest in **System Design, DSA & Backend Engineering**
 - 🌱 Currently improving **Next.js, TypeScript & Advanced Backend Concepts**
 
-https://github.com/perisicnikola37/adarshroy001
+![Profile Views](https://komarev.com/ghpvc/?username=adarshroy001&label=Profile%20Views&color=blue&style=flat)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-20-kumar/) 
 
